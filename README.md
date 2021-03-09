@@ -3,10 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Lee%20Si%20Eun&fontSize=50&animation=fadeIn)
 
 ---
-<p>🌼 Most Used Languagues </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssinee&layout=compact)](https://github.com/ssinee/github-readme-stats)
-
 
 💻 Hope to become a better Developer Tommorrow 
 * <p> 🧠 Recently Learning 
